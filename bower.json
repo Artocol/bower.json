@@ -1,0 +1,14 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "2.2.0",
+    "jquery-validation": "1.14.0",
+    "jquery-validation-unobtrusive": "3.2.6",
+    "App States": "bower.json#^0.6.9"
+  },
+  "resolutions": {
+    "webcomponentsjs": "^0.6.0"
+  }
+}
